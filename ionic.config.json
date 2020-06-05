@@ -1,0 +1,7 @@
+{
+  "name": "showmebug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
